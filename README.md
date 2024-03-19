@@ -1,4 +1,4 @@
-[![MasterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
+![MasterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Zinedine Sidane</h1>
