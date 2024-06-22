@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://zinedine-portfolio.netlify.app/](https://zinedine-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://zinedine-portfolio.netlify.app/](https://zinedine-sidane.tech/)
 
 - 💬 Ask me about **Web Development | MERN**
 
